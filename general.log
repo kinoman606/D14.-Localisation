@@ -1,0 +1,6 @@
+2023-08-28 22:00:38,182 INFO autoreload Watching for file changes with StatReloader
+2023-08-28 22:02:02,297 INFO autoreload Watching for file changes with StatReloader
+2023-08-28 22:02:45,335 INFO autoreload C:\Users\Ruslan\PycharmProjects\project_news_portal\NewsPortal\news\views.py changed, reloading.
+2023-08-28 22:02:46,141 INFO autoreload Watching for file changes with StatReloader
+2023-08-28 22:10:54,572 INFO autoreload C:\Users\Ruslan\PycharmProjects\project_news_portal\NewsPortal\news\views.py changed, reloading.
+2023-08-28 22:10:55,514 INFO autoreload Watching for file changes with StatReloader

@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-13 12:52+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\accounts\forms.py:10
+msgid "Имя"
+msgstr "Name"
+
+#: .\accounts\forms.py:11
+msgid "Фамилия"
+msgstr "Soname"
+
+#: .\accounts\forms.py:28
+msgid "Добро пожаловать на Новостной Портал"
+msgstr "Welcome to the News Portal"
+
+#: .\accounts\forms.py:39
+msgid "Новый пользователь!"
+msgstr "New user"
+
+#: .\fpages\admin.py:10
+msgid "Advanced options"
+msgstr ""
+
+#: .\news\filters.py:11
+msgid "по названию"
+msgstr "by name"
+
+#: .\news\filters.py:17
+msgid "по категории"
+msgstr "by category"
+
+#: .\news\filters.py:18
+msgid "любая"
+msgstr "any"
+
+#: .\news\filters.py:24
+msgid "позже указываемой даты"
+msgstr "later than the specified date"
+
+#: .\news\forms.py:7
+msgid "выберите автора"
+msgstr "select author"
+
+#: .\news\forms.py:7
+msgid "Автор"
+msgstr "Author"
+
+#: .\news\forms.py:8 .\templates\news\posts.html:40
+msgid "Категория"
+msgstr "Category"
+
+#: .\news\forms.py:9
+msgid "Название"
+msgstr "Title"
+
+#: .\news\forms.py:27
+msgid "Текст публикации не должен быть идентичен названию."
+msgstr "The text of the publication should not be identical to the title."
+
+#: .\news\management\commands\deleteposts.py:7
+msgid "Удаляет публикации определенной категории"
+msgstr "Deletes posts of a specific category"
+
+#: .\news\management\commands\deleteposts.py:8
+msgid "Категория удаляемых сообщений указана не корректно"
+msgstr "The category of messages to be deleted is not specified correctly"
+
+#: .\news\management\commands\deleteposts.py:25
+msgid "Удаление отменено!"
+msgstr "Deletion cancelled!"
+
+#: .\news\management\commands\runapscheduler.py:34
+msgid "Публикации за неделю"
+msgstr "Publications for the week"
+
+#: .\news\models.py:42
+msgid "Новость"
+msgstr "News"
+
+#: .\news\models.py:43
+msgid "Статья"
+msgstr "Article"
+
+#: .\news\models.py:48
+msgid "Новая публикация"
+msgstr "New publication"
+
+#: .\templates\news\posts.html:10
+msgid "Все публикации"
+msgstr "All publications"
+
+#: .\templates\news\posts.html:31
+msgid "Общее количество публикаций"
+msgstr "Total number of publications"
+
+#: .\templates\news\posts.html:31
+msgid "шт"
+msgstr "pcs"
+
+#: .\templates\news\posts.html:37
+msgid "Заголовок"
+msgstr "Title"
+
+#: .\templates\news\posts.html:38
+msgid "Дата публикации"
+msgstr "Publication date"
+
+#: .\templates\news\posts.html:39
+msgid "Превью публикации"
+msgstr "Publication preview"
+
+#: .\templates\news\posts.html:62
+msgid "Публикации отсутствуют"
+msgstr "No publications available"
